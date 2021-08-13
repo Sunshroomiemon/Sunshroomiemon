@@ -2,7 +2,7 @@
 > Mechatronics student, CS is the hobby since it's self-teachable.\
 > I still have no clue what I'm doing with things in general, but hey, gotta start somewhere.\
 > How did you actually get here?\
-> Well, email queries please send to: iemozzomei@gmail.com\
+> Well, email queries please send to: iemozzomei@gmail.com
 
 <!---
 Sunshroomiemon/Sunshroomiemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
